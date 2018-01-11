@@ -1,0 +1,5 @@
+.shadowed-card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 1px 1px 1px #999;
+}
